@@ -5,3 +5,4 @@
 - [ ] Backup solution
 - [ ] Pihole
 - [ ] OpenDNS
+- [ ] Document open security risks, think of mitigations and implement them
