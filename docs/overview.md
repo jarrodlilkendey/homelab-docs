@@ -13,3 +13,5 @@ Installed on the host Ubuntu Server is Proxmox and all of the applications I run
 Generally these applications are Dockerised but not always.
 
 Proxmox is accessible on my home network via: https://10.0.0.12:8006/
+
+I followed this [guide](/docs/Resources/install-proxmox) to install Proxmox on my homelab server.
