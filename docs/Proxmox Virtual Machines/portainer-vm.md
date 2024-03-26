@@ -14,7 +14,6 @@ admin, portainerpassword
 - Multiple Wordpress instances with their own mysql databases
 - Node Exporter
 - Uptime Kuma (may migrate this later to the Monitoring Server VM)
-- Semaphore UI (may migrate this later to the Ansible VM)
 
 ## Monitoring
 
