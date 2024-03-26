@@ -1,8 +1,12 @@
 # Ansible Virtual Machine
 
-This server will be running Ansible and the Semaphore UI for Ansible. It will be the control node for Ansible.
+This server will be running Ansible and the Ansible Semaphore. It will be the control node for Ansible.
 
 10.0.0.18
+
+## Applications
+
+Ansible Semaphore is running via Docker Compose the runs along with it's own Postgres database and is accessible at http://10.0.0.18:3000 (admin / changeme)
 
 ## Monitoring
 
