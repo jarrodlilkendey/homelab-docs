@@ -25,3 +25,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-install-a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NyOSoLn5T5U?si=IRFlxSHsJp7gxIc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=NyOSoLn5T5U
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6rpTjEpvUtc?si=M16zU799sjR0pQvx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=6rpTjEpvUtc
