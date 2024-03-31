@@ -6,5 +6,5 @@
 - [ ] Pihole
 - [ ] OpenDNS
 - [x] Document open security risks
-- [ ] think of mitigations of open security risks and implement them
+- [ ] think of mitigations of open security risks (use ITIL risk and security management frameworks) and implement them
 - [ ] CI/CD solution for the docs website deploying locally in a docker container
