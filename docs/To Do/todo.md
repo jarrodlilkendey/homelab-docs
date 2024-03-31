@@ -5,4 +5,6 @@
 - [ ] Backup solution
 - [ ] Pihole
 - [ ] OpenDNS
-- [ ] Document open security risks, think of mitigations and implement them
+- [x] Document open security risks
+- [ ] think of mitigations of open security risks and implement them
+- [ ] CI/CD solution for the docs website deploying locally in a docker container
