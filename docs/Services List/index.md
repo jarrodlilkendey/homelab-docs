@@ -18,7 +18,6 @@
 | Machine      | Service                                                         | URI                   |
 | ------------ | --------------------------------------------------------------- | --------------------- |
 | Portainer VM | [Portainer Admin UI](http://10.0.0.14:9443)                     | http://10.0.0.14:9443 |
-| Portainer VM | [Uptime Kuma](http://10.0.0.14:3001/)                           | http://10.0.0.14:3001 |
 | Portainer VM | [LearnToDroid.com Local Wordpress](http://10.0.0.14:3006)       | http://10.0.0.14:3006 |
 | Portainer VM | [Programmablewealth.com Local Wordpress](http://10.0.0.14:3008) | http://10.0.0.14:3008 |
 | Portainer VM | [Node Exporter](http://10.0.0.14:9100)                          | http://10.0.0.14:9100 |
@@ -28,6 +27,8 @@
 | Machine       | Service                                | URI                   |
 | ------------- | -------------------------------------- | --------------------- |
 | Monitoring VM | [Prometheus](http://10.0.0.19:9090)    | http://10.0.0.19:9090 |
+| Monitoring VM | [Alert Manager](http://10.0.0.19:9093) | http://10.0.0.19:9093 |
+| Monitoring VM | [Uptime Kuma](http://10.0.0.19:3001)   | http://10.0.0.19:3001 |
 | Monitoring VM | [Node Exporter](http://10.0.0.19:9100) | http://10.0.0.19:9100 |
 
 ## Ansible VM

@@ -13,7 +13,6 @@ admin, portainerpassword
 - Portainer
 - Multiple Wordpress instances with their own mysql databases
 - Node Exporter
-- Uptime Kuma (may migrate this later to the Monitoring Server VM)
 
 ## Monitoring
 
