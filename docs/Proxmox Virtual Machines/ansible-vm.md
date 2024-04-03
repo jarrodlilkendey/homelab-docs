@@ -14,6 +14,7 @@ The following VMs are accessible by the Ansible control node (10.0.0.18).
 - 10.0.0.13 (Jellyfin Server VM)
 - 10.0.0.14 (Portainer VM)
 - 10.0.0.12 (Proxmox Host Machine)
+- 10.0.0.15 (Elastic Stack VM)
 
 The Ansible control node has been configured to uses the jarrod user with a password over SSH to access these nodes.
 
