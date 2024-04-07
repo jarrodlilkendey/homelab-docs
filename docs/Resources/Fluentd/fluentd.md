@@ -8,6 +8,7 @@ https://docs.fluentd.org/
 - https://docs.fluentd.org/output/elasticsearch#user-password-optional
 - https://github.com/uken/fluent-plugin-elasticsearch
 - https://docs.fluentd.org/container-deployment/docker-logging-driver
+- https://www.youtube.com/watch?v=5ofsNyHZwWE
 
 i am receiving error
 
@@ -23,8 +24,3 @@ i am receiving error
 - [ ] Step 2: Step 1, but instead of write logs to a file on the same machine, fluentd forwards them to a log file on a seperate VM
 - [ ] Step 3: add multiple VMs doing Step 2 forwarding their logs to the same centralized VM for log collection
 - [ ] Step 4: on the centralized VM, use fluentd to read from the centralized log file (being written to by multiple machines) then write that data to an index elastic search
-
-Server IPs:
-
-- 10.0.0.16 - single
-- 10.0.0.17 - central
