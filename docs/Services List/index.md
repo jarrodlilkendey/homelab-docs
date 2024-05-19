@@ -10,8 +10,8 @@
 
 | Machine     | Service                                | URI                   |
 | ----------- | -------------------------------------- | --------------------- |
-| Jellyfin VM | [Jellyfin](http://10.0.0.13:8096)      | http://10.0.0.13:8096 |
-| Jellyfin VM | [Node Exporter](http://10.0.0.13:9100) | http://10.0.0.13:9100 |
+| Jellyfin VM | [Jellyfin](http://10.0.0.10:8096)      | http://10.0.0.10:8096 |
+| Jellyfin VM | [Node Exporter](http://10.0.0.10:9100) | http://10.0.0.10:9100 |
 
 ## Portainer VM
 
