@@ -2,7 +2,7 @@
 
 This server will be running Ansible and the Ansible Semaphore. It will be the control node for Ansible.
 
-10.0.0.18
+- IP address: 10.0.0.18
 
 ## Applications
 

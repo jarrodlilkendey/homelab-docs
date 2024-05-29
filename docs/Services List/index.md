@@ -40,7 +40,7 @@
 
 ## Elastic VM
 
-| Machine    | Service                                | URI                   |
-| ---------- | -------------------------------------- | --------------------- |
-| Elastic VM | [Kibana](http://10.0.0.15:5601)        | http://10.0.0.15:5601 |
-| Elastic VM | [Node Exporter](http://10.0.0.15:9100) | http://10.0.0.15:9100 |
+| Machine    | Service                               | URI                  |
+| ---------- | ------------------------------------- | -------------------- |
+| Elastic VM | [Kibana](http://10.0.0.9:5601)        | http://10.0.0.9:5601 |
+| Elastic VM | [Node Exporter](http://10.0.0.9:9100) | http://10.0.0.9:9100 |

@@ -2,6 +2,8 @@
 
 This server will be running Portainer and host multiple Docker applications.
 
+- IP address: 10.0.0.14
+
 The Portainer UI is accessible at the following link.
 
 https://10.0.0.14:9443/

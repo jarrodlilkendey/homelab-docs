@@ -2,7 +2,7 @@
 
 This server will be running Prometheus and Grafana
 
-10.0.0.19
+- IP address: 10.0.0.19
 
 ## Prometheus
 
