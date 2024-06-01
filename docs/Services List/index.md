@@ -15,12 +15,12 @@
 
 ## Portainer VM
 
-| Machine      | Service                                                                  | URI                   |
-| ------------ | ------------------------------------------------------------------------ | --------------------- |
-| Portainer VM | [Portainer Admin UI](http://10.0.0.14:9443)                              | http://10.0.0.14:9443 |
-| Portainer VM | [LearnToDroid.com Local Wordpress](http://10.0.0.14:3006/wp-admin)       | http://10.0.0.14:3006 |
-| Portainer VM | [Programmablewealth.com Local Wordpress](http://10.0.0.14:3008/wp-admin) | http://10.0.0.14:3008 |
-| Portainer VM | [Node Exporter](http://10.0.0.14:9100)                                   | http://10.0.0.14:9100 |
+| Machine      | Service                                                                  | URI                    |
+| ------------ | ------------------------------------------------------------------------ | ---------------------- |
+| Portainer VM | [Portainer Admin UI](https://10.0.0.14:9443)                             | https://10.0.0.14:9443 |
+| Portainer VM | [LearnToDroid.com Local Wordpress](http://10.0.0.14:3006/wp-admin)       | http://10.0.0.14:3006  |
+| Portainer VM | [Programmablewealth.com Local Wordpress](http://10.0.0.14:3008/wp-admin) | http://10.0.0.14:3008  |
+| Portainer VM | [Node Exporter](http://10.0.0.14:9100)                                   | http://10.0.0.14:9100  |
 
 ## Monitoring VM
 
