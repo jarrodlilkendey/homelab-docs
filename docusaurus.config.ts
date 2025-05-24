@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "programmablewealth", // Usually your GitHub org/user name.
+  organizationName: "jarrodlilkendey", // Usually your GitHub org/user name.
   projectName: "homelab-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
