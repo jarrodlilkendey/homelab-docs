@@ -1,6 +1,7 @@
 # Jellyfin Virtual Machine
 
 - IP address: 10.0.0.16
+- Local DNS: media.home.lan
 
 The Jellyfin media server is accessible at http://10.0.0.16:8096/
 
