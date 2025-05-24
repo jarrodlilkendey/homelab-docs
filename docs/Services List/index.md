@@ -20,6 +20,7 @@
 | Portainer VM | [Portainer Admin UI](https://10.0.0.14:9443)                             | https://10.0.0.14:9443 |
 | Portainer VM | [LearnToDroid.com Local Wordpress](http://10.0.0.14:3006/wp-admin)       | http://10.0.0.14:3006  |
 | Portainer VM | [Programmablewealth.com Local Wordpress](http://10.0.0.14:3008/wp-admin) | http://10.0.0.14:3008  |
+| Portainer VM | [N8N](https://n8n.home.lan/home/workflows)                               | https://n8n.home.lan   |
 | Portainer VM | [Node Exporter](http://10.0.0.14:9100)                                   | http://10.0.0.14:9100  |
 
 ## Monitoring VM
@@ -50,3 +51,9 @@
 | Machine     | Service                          | URI                  |
 | ----------- | -------------------------------- | -------------------- |
 | Whishper VM | [Whishper](http://10.0.0.8:8082) | http://10.0.0.8:8082 |
+
+## Pihole VM
+
+| Machine   | Service                          | URI                    |
+| --------- | -------------------------------- | ---------------------- |
+| Pihole VM | [Pihole](http://10.0.0.17/admin) | http://10.0.0.17/admin |
