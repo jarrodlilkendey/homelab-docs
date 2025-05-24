@@ -18,4 +18,6 @@ I did not update the DHCP settings on my router to pihole.
 
 I changed the DNS provider via Windows 10 settings - https://developers.cloudflare.com/1.1.1.1/setup/windows/
 
+I configured the alternate DNS provider to cloudflare in case the pihole VM or homelab goes down
+
 Manage Local DNS records with https://www.youtube.com/watch?v=kKsHo6r4_rc
